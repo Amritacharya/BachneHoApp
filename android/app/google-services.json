@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "120195988267",
+        "firebase_url": "https://bechneho-55034.firebaseio.com",
+        "project_id": "bechneho-55034",
+        "storage_bucket": "bechneho-55034.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:120195988267:android:fa2243089c896b2725a36e",
+            "android_client_info": {
+                "package_name": "com.bechne.bechneho"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "120195988267-r73v5bmeh9251flffaicrifhrrpkde2v.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.bechne.bechneho",
+                    "certificate_hash": "ee0a2d6fc03f0fbe9432e9949ec8e17e13edd8d2"
+                }
+            },
+            {
+                "client_id": "120195988267-ga4fu9r2rcghra72m4li69mopajvahb3.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyDOV84vpHRRjrZQLw2a8c97HZecObtvSD8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "120195988267-ga4fu9r2rcghra72m4li69mopajvahb3.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
